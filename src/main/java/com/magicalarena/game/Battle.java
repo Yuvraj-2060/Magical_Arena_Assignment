@@ -45,7 +45,7 @@ public class Battle {
             defender = temp;
         }
 
-        if (playerA.isAlive()) {
+        if (playerA.isAlive())  {
             System.out.println(playerA.getName() + " wins!");
         } else {
             System.out.println(playerB.getName() + " wins!");
