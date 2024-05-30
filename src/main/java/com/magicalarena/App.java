@@ -12,4 +12,5 @@ public class App
 
         Arena arena = new Arena(playerA, playerB);
         arena.startBattle();
-    }}
+    }
+}
