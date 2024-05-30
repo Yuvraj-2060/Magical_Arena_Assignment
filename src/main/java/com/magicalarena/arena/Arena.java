@@ -8,6 +8,7 @@ public class Arena {
     Player playerB;
 
     public Arena(Player playerA, Player playerB) {
+
         this.playerA = playerA;
         this.playerB = playerB;
     }
