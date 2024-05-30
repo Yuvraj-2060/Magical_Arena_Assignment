@@ -80,3 +80,15 @@ The code is easy to maintain and modify, with a clean separation of concerns.
 The code has comprehensive unit tests, providing a high degree of test coverage.
 
 This project serves as a good example of applying object-oriented principles and writing clean, maintainable code in Java. The use of Maven ensures that dependencies are managed effectively, and the project structure follows best practices for Java development.
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/Yuvraj-2060/Magical_Arena_Assignment/assets/103349788/3e9d0397-80e0-4ed1-994b-331c75f49407)
+
