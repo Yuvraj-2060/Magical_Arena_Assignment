@@ -26,7 +26,7 @@ public class Player {
     }
 
     public int getAttack() {
-        return attack;
+         return attack;
     }
 
     public void takeDamage(int damage) {
