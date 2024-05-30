@@ -48,7 +48,7 @@ Tests the random number generation to ensure it falls within the specified range
 
 
 
-## ----------------------------------- Build and Run Instructions --------------------------------------------------------
+## ------------------------------ Build and Run Instructions -------------------------------------------
 
 # 1). Clone the Repository
 git clone <repository_url>
